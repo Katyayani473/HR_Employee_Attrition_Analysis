@@ -224,6 +224,9 @@ Slicers
 -	Age_Category
 -	Department
 -	RelationshipStatus
+## Dashboard Preview
+
+![Dashboard](HR_Dashboard.png)
 ## 8. Key Dashboard Insights
 1. High Attrition in Sales Department
 Research&Development has the highest number of employees leaving the company.
