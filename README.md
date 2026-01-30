@@ -9,7 +9,7 @@ The company is facing increased employee turnover. However, HR lacks a consolida
 -	How gender and work conditions influence attrition
 The goal is to build a dashboard that gives clear insights and helps management reduce attrition.
 
-## ## 🎯 Business Problem
+##  🎯 Business Problem
 Employee attrition is a major challenge for organizations, leading to increased hiring costs,loss of productivity, and reduced team stability. The company is experiencing high employee
 turnover but lacks a consolidated system to analyze the key factors driving attrition.
 This project aims to identify patterns and root causes of employee attrition across departments,
