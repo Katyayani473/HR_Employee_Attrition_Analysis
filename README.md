@@ -1,6 +1,6 @@
 # HR Employee Attrition Analysis
 
-## 1.Project Overview 
+## Project Overview 
 Employee attrition is a major challenge for HR departments across industries. High attrition increases hiring costs, slows productivity, and affects team stability.
 To understand the root causes of employee attrition, an interactive Power BI dashboard was developed. This dashboard helps HR identify patterns, analyze different factors, and make data-driven decisions.
 The company is facing increased employee turnover. However, HR lacks a consolidated system to analyze:
